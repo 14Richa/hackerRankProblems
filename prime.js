@@ -8,4 +8,4 @@ function prime(num) {
 return "prime"
 }
 
-console.log(prime(3))
+console.log(prime(6))
